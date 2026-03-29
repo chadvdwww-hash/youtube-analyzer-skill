@@ -53,7 +53,7 @@ For the Whisper fallback (Apple Silicon only):
 ### Install the Skill
 
 ```bash
-npx skills add chadvanderwal/youtube-analyzer-skill
+npx skills add chadvdwww-hash/youtube-analyzer-skill
 ```
 
 Or manually: copy `skill.md` to `~/.claude/skills/youtube-analyzer/skill.md`
